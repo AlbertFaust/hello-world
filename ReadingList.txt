@@ -6,3 +6,6 @@ http://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs
 
 The Art of Computer Programming - Donald Knuth
 http://en.wikipedia.org/wiki/The_Art_of_Computer_Programming
+
+Zen and the Art of Motorcycle Maintenance: An Inquiry into Values - Robert Pirsig
+http://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance
