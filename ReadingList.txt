@@ -12,3 +12,6 @@ http://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance
 
 Introduction to Algorithms -  Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 http://en.wikipedia.org/wiki/Introduction_to_Algorithms
+
+The Pragmatic Programmer: From Journeyman to Master - Andrew Hunt, David Thomas
+http://en.wikipedia.org/wiki/The_Pragmatic_Programmer
