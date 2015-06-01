@@ -3,7 +3,7 @@ Robert McConnell
 </h3>
 <p align="center">
 robert.mcconnell3@mail.dcu.ie <br>
-github.com/AlbertFaust <br>
+<a href="https://github.com/AlbertFaust">github.com/AlbertFaust</a> <br>
 www.albertfaust.com
 </p>
 ------------
@@ -16,7 +16,7 @@ Secondary Level Education<br>
 -------------
 ####Summary
 I am currently studying Electronic and Computer Engineering in Dublin City University. I am passionate about technology, fixing broken things and learning.
-I find it easy to get on with people as shown with my experiences in Belvedere and DCU.
+I find it easy to get on with people as shown with my experiences in Belvedere and DCU. I am looking for an internship this summer in a software development company.
 
 ####Experience
 ######Intern, Kleinwort Benson Investors<br>
