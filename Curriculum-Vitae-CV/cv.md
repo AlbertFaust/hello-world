@@ -4,7 +4,6 @@ Robert McConnell
 <p align="center">
 robert.mcconnell3@mail.dcu.ie <br>
 <a href="https://github.com/AlbertFaust">github.com/AlbertFaust</a> <br>
-www.albertfaust.com
 </p>
 ------------
 **Dublin City University** 2014-Present<br>
