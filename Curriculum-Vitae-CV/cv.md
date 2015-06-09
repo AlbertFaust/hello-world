@@ -15,7 +15,7 @@ Secondary Level Education<br>
 -------------
 ####Summary
 I am currently studying Electronic and Computer Engineering in Dublin City University. I am passionate about technology, fixing broken things and learning.
-I find it easy to get on with people as shown with my experiences in Belvedere and DCU. I am looking for an internship this summer in a software development company.
+I find it easy to get on with people as shown with my experiences in Belvedere and DCU.
 
 ####Experience
 ######Intern, Kleinwort Benson Investors<br>
@@ -35,6 +35,7 @@ I also took phone calls regarding issues from staff about their computers.
 
 ####Accomplishments/Interests
 * Built my own PC.
+* Comfortable with various Linux distributions.
 * First Year Representative of Redbrick, DCU’s Computer Networking society.
 * Helped organise and participated in the Belvedere Sleep Out two times and also made the website for the event.
 * Raised money for charity and participated in cycling the Camino de Santiago.
