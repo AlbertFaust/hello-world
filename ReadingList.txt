@@ -15,3 +15,6 @@ http://en.wikipedia.org/wiki/Introduction_to_Algorithms
 
 The Pragmatic Programmer: From Journeyman to Master - Andrew Hunt, David Thomas
 http://en.wikipedia.org/wiki/The_Pragmatic_Programmer
+
+Code Complete (2) - Steve McConnell
+https://en.wikipedia.org/wiki/Code_Complete
