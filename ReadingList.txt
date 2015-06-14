@@ -18,3 +18,6 @@ http://en.wikipedia.org/wiki/The_Pragmatic_Programmer
 
 Code Complete (2) - Steve McConnell
 https://en.wikipedia.org/wiki/Code_Complete
+
+The Mythical Man-Month: Essays on Software Engineering - Frederick Brooks
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month
