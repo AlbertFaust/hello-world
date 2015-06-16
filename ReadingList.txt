@@ -27,3 +27,6 @@ https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and
 
 The C Programming Language - Brian Kernighan, Dennis Ritchie
 https://en.wikipedia.org/wiki/The_C_Programming_Language
+
+Compilers: Principles, Techniques, and Tools - Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman
+https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
