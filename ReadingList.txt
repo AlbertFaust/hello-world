@@ -30,3 +30,6 @@ https://en.wikipedia.org/wiki/The_C_Programming_Language
 
 Compilers: Principles, Techniques, and Tools - Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman
 https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
+
+Concrete Mathematics: A Foundation for Computer Science - Ronald Graham, Donald Knuth, Oren Patashnik
+https://en.wikipedia.org/wiki/Concrete_Mathematics
