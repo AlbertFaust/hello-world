@@ -19,7 +19,7 @@ I find it easy to get on with people as shown with my experiences in Belvedere C
 
 ####Experience
 ######Intern, <a href="http://www.eeng.dcu.ie/~pel">Performance Engineering Laboratory</a> <br>
-######Dublin City University - Summer 2015<br>
+Dublin City University - Summer 2015<br>
 Built a new <a href="https://github.com/AlbertFaust/webdev/tree/master/PerformanceEngineeringLaboratory">website</a> using HTML, CSS and Javascript with the Bootstrap framework under the supervision of <a href="http://www.eeng.dcu.ie/~munteang/">Dr. Gabriel Miro Muntean</a> for the Performance Engineering Laboratory.<br>
 Improved the design and user experience of the site by restructuring the navigation and updating the outdated style using the *scrollspy.js* Bootstrap plugin and some Javascript. The new site is also responsive to different screen resoloutions unlike the old site.<br>
 
