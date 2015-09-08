@@ -15,23 +15,13 @@ Secondary Level Education<br>
 -------------
 ####Summary
 I am currently studying Electronic and Computer Engineering in Dublin City University. I am passionate about technology, fixing broken things and learning.
-I find it easy to get on with people as shown with my experiences in Belvedere and DCU.
+I find it easy to get on with people as shown with my experiences in Belvedere College and DCU.
 
 ####Experience
-######Intern, Kleinwort Benson Investors<br>
-Dawson Street, Dublin - February 2012<br>
-While working in KBI, I was given the task of researching a possible investment in renewable energy in third world countries.
-By the end of my stay there I had written an assessment on the idea. This experience developed my research and report writing skills.
-
-######Intern, Graffiti Design<br>
-Fairview, Dublin - February 2012<br>
-During my time in Graffiti Design I assisted in the backing up of their databases after a computer crash.
-It provided valuable technical experience and showed me showed me how to work in a constantly changing environment that lacked usual business structure.
-
-######Intern, Manresa<br>
-Clontarf, Dublin - Ongoing since 2008<br>
-Over the course of the last few years I have worked in Manresa several times doing various tasks from creating a database to packing and posting brochures.
-I also took phone calls regarding issues from staff about their computers.
+######Intern, <a href="http://www.eeng.dcu.ie/~pel">Performance Engineering Laboratory</a> <br>
+######Dublin City University - Summer 2015<br>
+Built a new <a href="https://github.com/AlbertFaust/webdev/tree/master/PerformanceEngineeringLaboratory">website</a> using HTML, CSS and Javascript with the Bootstrap framework under the supervision of <a href="http://www.eeng.dcu.ie/~munteang/">Dr. Gabriel Miro Muntean</a> for the Performance Engineering Laboratory.<br>
+Improved the design and user experience of the site by restructuring the navigation and updating the outdated style using the *scrollspy.js* Bootstrap plugin and some Javascript. The new site is also responsive to different screen resoloutions unlike the old site.<br>
 
 ####Accomplishments/Interests
 * Built my own PC.
