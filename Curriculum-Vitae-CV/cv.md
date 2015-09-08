@@ -33,5 +33,10 @@ Improved the design and user experience of the site by restructuring the navigat
 * Really enjoy programming and electronics.
 * Experience in C and currently working on learning Python in my spare time.
 
+####Projects
+######<a href="https://github.com/AlbertFaust/wallpaper-to-theme">Wallpaper to Theme</a> - Java<br>
+A program that generates a terminal colour scheme from a wallpaper.<br>
+* Implements *'Lloyd's Algorithm'* and *'K-Means Clustering'* to determine the most dominant colours in the image.<br>
+  
 ####References
 Available upon request.
