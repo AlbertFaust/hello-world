@@ -1,0 +1,92 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[a4paper,margin=1in,footskip=0.25in]{geometry}
+
+\usepackage{marvosym}
+\usepackage{fontspec}
+\usepackage{xunicode,xltxtra,url,parskip}
+\RequirePackage{color,graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[big]{layaureo} 
+\usepackage{supertabular}
+\usepackage{titlesec}
+
+\usepackage{hyperref}
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour, linkcolor=linkcolour}
+
+
+\defaultfontfeatures{Mapping=tex-text}
+
+\setmainfont[
+BoldFont = Roboto-Light.otf,
+ItalicFont = Roboto-LightItalic.otf
+]
+{Roboto-Thin.ttf}
+
+
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{3pt}{3pt}
+
+\hyphenation{im-pre-se}
+
+\begin{document}
+
+\pagestyle{empty} 
+
+\font\fb=''[cmr10]'' 
+
+\par{\centering
+		{\Huge Robert \textsc{McConnell}
+	}\bigskip\par}
+
+\par{\centering
+    robert.mcconnell3@mail.dcu.ie \\
+    github.com/AlbertFaust \\ 
+    albertfaust.com \\
+}\bigskip\par
+\par{\centering
+I am currently studying Electronic and Computer Engineering in Dublin City University. \\
+I am passionate about technology, fixing broken things and learning. \\
+}\bigskip\par
+\section{\textbf{Education}}
+
+\begin{tabular}{r|p{11cm}}
+ \emph & Dublin City University \\\textsc{2014-Present}&\emph{Electronic and Computer Engineering}\\\multicolumn{2}{c}{} \\
+\emph & Belvedere College SJ \\\textsc{2008-2014}&\emph{Secondary Level Education}\\
+\end{tabular}
+
+\section{\textbf{Experience}}
+\begin{tabular}{rl}	
+\textsc{Summer} 2015 & \textbf{Intern, Performance Engineering Laboratory} - Dublin City University, Dublin.\\
+& Built a new website using HTML, CSS and Javascript with the Bootstrap \\
+& framework under the supervision of Dr. Gabriel Miro Muntean \\
+& for the Performance Engineering Laboratory.
+Improved the design and user \\
+& experience of the site by restructuring the navigation and updating the \\
+& outdated style using the scrollspy.js Bootstrap plugin and some Javascript. The \\
+& new site is also responsive to different screen resoloutions unlike the old site.\\&\\
+
+\textsc{February} 2012 & \textbf{Intern, Graffiti Design} - Fairview , Dublin.\\
+& During my time in Graffiti Design I assisted in the backing up of their databases\\
+& after a computer crash. It provided valuable technical experience and showed \\
+& me how to work in a constantly changing environment that lacked usual\\
+& business structure.\\&\\
+\end{tabular}
+
+\section{\textbf{Accomplishments/Interests}}
+\begin{itemize}
+  \item Experience in C/C++ and Java. (Software Development - Class rank: 1 of 170, Grade: 95\%) 
+  \item Comfortable with various Linux distributions.
+  \item First Year Representative of Redbrick, DCU’s Computer Networking Society.
+  \item Mentor in DCU CoderDojo teaching programming to kids and volunteered at events such as Coolest Projects.
+  \item Helped organise and participated in the Belvedere Sleep Out two times and also made the \\ website for the events and donations. \end{itemize}
+
+\section{\textbf{Projects}}
+\emph{Wallpaper to Theme} - Java\\
+A program that generates a terminal colour scheme from a wallpaper.
+\begin{itemize}
+  \item Implements 'Lloyd's Algorithm' and 'K-Means Clustering' to determine the most dominant colours in the image.\end{itemize}
+
+\section{\textbf{References}}
+Available upon request.
+\end{document}
