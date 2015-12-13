@@ -1,10 +1,10 @@
 ------------
 <h3 align="center">
-Curriculum Vitae / Résumé
+Curriculum Vitae / Resume
 
 </h3>
 <p align="center">
-This is a place where I will be keeping an up-to-date version of my CV / Résumé. 
+This is a place where I will be keeping an up-to-date version of my CV / Resume. 
 </p>
 ------------ 
 GitHub Flavored Markdown: <a href="https://github.com/AlbertFaust/hello-world/blob/master/Curriculum-Vitae/cv.md">cv.md</a>  
