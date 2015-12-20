@@ -1,0 +1,130 @@
+
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto-Thin.ttf);
+}
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto-Light.ttf);
+	font-weight: bold;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+div{
+	font-family: Roboto;
+	}
+h1 {
+	text-align: center;
+    font-weight: normal;
+    font-size: 3em;
+}
+h2 {
+    font-weight: normal;
+text-align: center;
+}
+h9{
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+	text-align: center;
+}
+h7{
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h8{
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+p {
+	text-align: center;
+    padding-right: 20%;
+    padding-left: 20%;
+}
+a {
+    color: #773191;
+	text-decoration: none;
+	
+}
+#images img:hover
+{ transform: scale(1.1); }	
+
+#menu {
+	text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#scroll{
+	padding-right: 14px;
+}
+#acc{
+    font-size:50%;
+}
+
+div.accc{
+	padding-right: 20%;
+    padding-left: 20%;
+}
+
+#list-menu{
+	display: inline;
+}
+
+div.horiz {
+	    padding-right: 20%;
+    padding-left: 20%;
+ font-weight: bold;
+
+}
+#cv{
+	width: 1200px;
+  	margin-left: auto ;
+  	margin-right: auto ;
+	
+}
+table{
+ 	    padding-right: 20%;
+    padding-left: 20%;
+}
+#body {
+   padding:10px;
+
+}
+#footer-cv {
+   position:absolute;
+   width:100%;
+   height:40%;   /* Height of the footer */
+       background-image: url(banner.jpg);
+    background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+#footer {
+   position:absolute;
+   width:100%;
+bottom: 0;
+   height:40%;   /* Height of the footer */
+       background-image: url(banner.jpg);
+    background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+
+
+.cover {
+  width: 260px;
+  object-fit: cover;
+}
